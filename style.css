@@ -22,7 +22,7 @@ img {
     width: 50%;
     margin-bottom: -20px;
     animation-name: hy;
-    animation-duration: 4s;
+    animation-duration: 3s;
 }
 
 @keyframes hy {
