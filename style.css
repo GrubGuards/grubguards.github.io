@@ -2,16 +2,13 @@
     src: url('Baby Monsta.otf');
     font-family: BabyMonsta;
 }
-
 * {
     margin: 0;
     padding: 0;
 }
-
 body {
     background-color: black;
 }
-
 img {
     position: relative;
     margin-top: -10px;
@@ -20,11 +17,20 @@ img {
     margin-left: auto;
     height: 50%;
     width: 50%;
-    margin-bottom: -60px;
+    margin-bottom: -20px;
+    animation-name: hy;
     animation-name: fadeInAnimation;
-    animation-duration: ease 10s;
+    animation-duration: 3s;
 }
 
+@keyframes hy {
+    0% {
+        top: 30px;
+    }
+    100% {
+        top: 0px;
+    }
+}
 @keyframes fadeInAnimation {
     0% { 
         opacity: 0; 
@@ -43,7 +49,6 @@ img {
         border-width: thick
     }
 }
-
 @media only screen and ( min-width: 730px) {
     h1 {
         color: white;
