@@ -17,10 +17,10 @@ img {
     margin-left: auto;
     height: 50%;
     width: 50%;
-    margin-bottom: -20px;
+    margin-bottom: -80px;
     animation-name: hy;
     animation-name: fadeInAnimation;
-    animation-duration: 3s;
+    animation-duration: 6s;
 }
 
 @keyframes hy {
