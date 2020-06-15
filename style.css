@@ -10,7 +10,7 @@ body {
     background-color: black;
 }
 img {
-    position: relative;
+    position: center;
     margin-top: -10px;
     display: block;
     margin-right: -100px;
