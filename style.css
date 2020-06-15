@@ -17,7 +17,7 @@ img {
     margin-left: auto;
     height: 25%;
     width: 25%;
-    margin-bottom: 0px;
+    margin-bottom: -20px;
     animation-name: hy;
     animation-name: fadeInAnimation;
     animation-duration: 4s;
