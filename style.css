@@ -16,7 +16,7 @@ img {
     position: relative;
     margin-top: -10px;
     display: block;
-    margin-right: 500px;
+    margin-right: auto;
     margin-left: auto;
     height: 50%;
     width: 50%;
@@ -30,7 +30,7 @@ img {
         top: 0px;
     }
     100% {
-        top: 100px;
+        top: 50px;
     }
 }
 
