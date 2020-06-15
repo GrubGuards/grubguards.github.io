@@ -22,7 +22,7 @@ img {
     width: 50%;
     margin-bottom: -20px;
     animation-name: fadeInAnimation;
-    animation-duration: 3s;
+    animation-duration: ease 5s;
 }
 
 @keyframes fadeInAnimation {
