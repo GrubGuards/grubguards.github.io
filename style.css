@@ -20,7 +20,7 @@ img {
     margin-left: auto;
     height: 50%;
     width: 50%;
-    margin-bottom: -20px;
+    margin-bottom: -60px;
     animation-name: fadeInAnimation;
     animation-duration: ease 10s;
 }
