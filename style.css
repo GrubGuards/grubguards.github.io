@@ -53,7 +53,7 @@ img {
     h1 {
         color: white;
         font-family: 'BabyMonsta';
-        text-align: center -50px;
+        text-align: relative;
         font-size: 650%;
         border-width: thick
     }
