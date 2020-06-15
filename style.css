@@ -16,7 +16,7 @@ img {
     margin-right: auto;
     margin-left: auto;
     height: 50%;
-    width: 60%;
+    width: 50%;
     margin-bottom: -130px;
     animation-name: hy;
     animation-name: fadeInAnimation;
@@ -54,7 +54,7 @@ img {
         color: white;
         font-family: 'BabyMonsta';
         text-align: center;
-        font-size: 600%;
+        font-size: 650%;
         border-width: thick
     }
 }
